@@ -1,0 +1,2 @@
+base F-F-F-F
+rule F <bFF>-<gF-F>-<rF-F>-<bF+F>

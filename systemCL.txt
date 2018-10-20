@@ -1,0 +1,2 @@
+base F
+rule F bwFF-[-bFL+bFL+bF<o>]+[+bFL-bFL-bF<o>]c

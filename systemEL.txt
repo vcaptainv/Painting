@@ -1,0 +1,3 @@
+base FFA
+rule A bwf[—-—bfLA<g>][-bfLA<g>][+++bfLA<g>]
+rule f FFf
